@@ -1,16 +1,18 @@
-## Hi there 👋
+# Trần Phước Sang
 
-<!--
-**PhuocSang44/PhuocSang44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Giới thiệu
+Sinh viên năm 3 tại HCMUT.  
+Quan tâm đến lập trình, AI/ML và phát triển ứng dụng.
 
-Here are some ideas to get you started:
+## 🚀 Kỹ năng
+- C++
+- Python
+- HTML, CSS, JS
+- Flutter
 
-- 🔭 I’m currently working on Computer Science Degree
-- 🌱 I’m currently learning a lot of stuff
-- 👯 I’m looking to collaborate on Pro Player
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Dự án
+1. **Portfolio Website** - Website cá nhân bằng ReactJS.
+2. **AI Project** - Ứng dụng nhận diện hình ảnh bằng Python.
+
+## 📫 Liên hệ
+[Facebook](https://facebook.com) | [Email](mailto:email@example.com)

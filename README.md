@@ -8,7 +8,6 @@ Quan tâm đến lập trình, AI/ML và phát triển ứng dụng.
 - C++
 - Python
 - HTML, CSS, JS
-- Flutter
 
 ## 📂 Dự án
 1. **Portfolio Website** - Website cá nhân bằng ReactJS.
